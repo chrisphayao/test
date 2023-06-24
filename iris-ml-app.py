@@ -1,4 +1,3 @@
-!pip install sklearn
 import streamlit as st
 import pandas as pd
 from sklearn import datasets
